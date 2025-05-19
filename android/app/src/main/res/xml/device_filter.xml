@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CH341 USB Vendor ID -->
+    <usb-device vendor-id="6790" /> <!-- 0x1A86 -->
+</resources>
